@@ -11,6 +11,9 @@ function App() {
      Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed, nobis, vitae reprehenderit dolorum dolor unde provident officiis exercitationem eum cupiditate ipsa autem molestiae ab vero dicta. Quae, nihil? Qui, aperiam?
      </p>
      <img src={profileimage} alt="profile-image" />
+     <p>
+     Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed, nobis, vitae reprehenderit dolorum dolor unde provident officiis exercitationem eum cupiditate ipsa autem molestiae ab vero dicta. Quae, nihil? Qui, aperiam?
+     </p>
     </div>
   );
 }
